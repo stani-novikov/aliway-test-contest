@@ -1,4 +1,4 @@
-# infuence
+# influence
 
 ## Project setup
 ```
